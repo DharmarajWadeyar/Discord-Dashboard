@@ -1,2 +1,2 @@
-# Discord-Dashboard-
+# Discord-Dashboard
 Personal Project
